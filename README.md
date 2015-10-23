@@ -20,6 +20,8 @@ haz add 'do laundry'
 haz list
 haz done 1
 haz list --done
+haz undo 1
+haz list --done
 ```
 
 
